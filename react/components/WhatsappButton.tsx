@@ -45,7 +45,7 @@ WhatsappButton.PropTypes = {
 
 WhatsappButton.defaultProps = {
     logo: "whatsapp-logo.png",
-    phone: "315551234567",
+    phone: "+5713017543525",
     message: "HOLA MUNDO",
     width: 80,
     height: 80
